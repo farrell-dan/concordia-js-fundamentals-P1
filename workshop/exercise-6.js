@@ -36,6 +36,6 @@ function exercise6() {
 exercise6();
 
 // Once you are done type the following in the terminal to test your answer(s).
-// yarn test exercise6
+// yarn test exercise-6
 
 module.exports = exercise6;

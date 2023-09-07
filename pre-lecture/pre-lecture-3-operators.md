@@ -56,3 +56,7 @@ Boolean logic is its own thing, but here's a short intro:
 - _NOT_ negates the value so that `true` becomes `false`, and `false` becomes `true`.
 
 _Comparison operators and logical operators are usually combined in an expression to create a boolean value, like this `2 > 1 && -1 < 0` (2 is greater than 1 and -1 is less than 0), which is `true`._
+
+---
+
+Back to [README](../README.md)

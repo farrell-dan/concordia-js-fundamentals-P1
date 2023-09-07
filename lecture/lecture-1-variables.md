@@ -16,9 +16,9 @@ marp: true
 ```js
 var name = 'Rick';
 
-const profession = 'Scientist';
-
 let grandson = 'Morty';
+
+const profession = 'Scientist';
 ```
 
 ---

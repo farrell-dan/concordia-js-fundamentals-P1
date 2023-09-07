@@ -6,7 +6,8 @@
     "scripts": {
         "test": "jest --noStackTrace",
         "test-75": "jest exercise-2.test.js exercise-3.test.js exercise-4.test.js exercise-5.1.test.js exercise-5.2.test.js exercise-5.3.test.js exercise-5.4.test.js exercise-5.5.test.js",
-        "test-100": "yarn test-75 jest exercise-6.test.js exercise-7.test.js exercise-8.test.js exercise-9.test.js"
+        "test-100": "jest exercise-6.test.js exercise-7.test.js exercise-8.test.js exercise-9.test.js",
+        "test-stretch": "jest exercise-10.test.js exercise-11.test.js exercise-12.test.js"
     },
     "repository": {
         "type": "git",

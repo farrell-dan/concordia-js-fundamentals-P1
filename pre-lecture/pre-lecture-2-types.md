@@ -205,3 +205,7 @@ For more details, you can check out this [Sitepoint page](https://www.sitepoint.
 "5" - 1; // equals 4
 "5" + 1; // equals 51
 ```
+
+---
+
+Back to [README](../README.md)

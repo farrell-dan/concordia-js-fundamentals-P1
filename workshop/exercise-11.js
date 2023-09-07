@@ -1,7 +1,7 @@
 function exercise11() {
     // Exercise 11
     //
-    // Write a program that generates a list of all prime numbers from 1 and 200.
+    // Write a program that generates an array of all prime numbers from 1 and 200.
     // Prime numbers have exactly two factors.
     // A prime number is a number that is ONLY divisible by 1 and itself.
     //

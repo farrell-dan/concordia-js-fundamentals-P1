@@ -84,11 +84,11 @@ Comparison operators and logical operators are usually combined in an expression
 
 ## Exercise 1
 
-Look at these expressions below and determine weather they evaluate to true or false:
+Look at these expressions below and determine whether they evaluate to true or false:
 
 `true || false`
 
-`fale && false`
+`false && false`
 
 `1 < 2 && 2 > 1`
 
