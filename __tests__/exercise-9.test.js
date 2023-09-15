@@ -1,4 +1,4 @@
-const exercise9 = require("../workshop1/exercise-9");
+const exercise9 = require("../workshop/exercise-9");
 
 test("Exercise 9", () => {
   exercise9();
