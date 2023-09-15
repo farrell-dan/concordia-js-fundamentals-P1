@@ -13,6 +13,9 @@ function exercise9() {
     //
     // Write code between the lines (below)
     // -----------------------------------------------------------------
+for (let i = "#"; i.length < 8 ; i += "#"){
+    console.log(i)
+}
     // -----------------------------------------------------------------
     // Write code between the lines (above)
     //
