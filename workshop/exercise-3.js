@@ -9,8 +9,8 @@ function exercise3() {
     //
     // Edit only the code between the lines (below)
     // -----------------------------------------------------------------
-    for (let number = 0; number < 12; number++) {
-        console.log(square);
+    for (let number = 0; number < 13; number++) {
+        console.log(number ** 2);
     }
     // -----------------------------------------------------------------
     // Edit only the code between the lines (above)
